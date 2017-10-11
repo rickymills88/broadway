@@ -30,8 +30,8 @@ body{
   color: white;
 
     display: block;
-    -webkit-margin-before: 1em;
-    -webkit-margin-after: 1em;
+    -webkit-margin-before: 0.9em;
+    -webkit-margin-after: 0.9em;
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
     /*Not used this before, just copied and paste*/
